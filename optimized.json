@@ -1,0 +1,92 @@
+[
+  {
+    "column": "price",
+    "memory_usage": "88735.5 KiB",
+    "memory_part": "15.685%",
+    "type": "uint64"
+  },
+  {
+    "column": "rooms",
+    "memory_usage": "88735.5 KiB",
+    "memory_part": "15.685%",
+    "type": "int64"
+  },
+  {
+    "column": "area",
+    "memory_usage": "44367.8 KiB",
+    "memory_part": "7.843%",
+    "type": "float32"
+  },
+  {
+    "column": "kitchen_area",
+    "memory_usage": "44367.8 KiB",
+    "memory_part": "7.843%",
+    "type": "float32"
+  },
+  {
+    "column": "geo_lat",
+    "memory_usage": "44367.8 KiB",
+    "memory_part": "7.843%",
+    "type": "float32"
+  },
+  {
+    "column": "geo_lon",
+    "memory_usage": "44367.8 KiB",
+    "memory_part": "7.843%",
+    "type": "float32"
+  },
+  {
+    "column": "postal_code",
+    "memory_usage": "44367.8 KiB",
+    "memory_part": "7.843%",
+    "type": "float32"
+  },
+  {
+    "column": "street_id",
+    "memory_usage": "44367.8 KiB",
+    "memory_part": "7.843%",
+    "type": "float32"
+  },
+  {
+    "column": "house_id",
+    "memory_usage": "44367.8 KiB",
+    "memory_part": "7.843%",
+    "type": "float32"
+  },
+  {
+    "column": "date",
+    "memory_usage": "22213.0 KiB",
+    "memory_part": "3.927%",
+    "type": "category"
+  },
+  {
+    "column": "level",
+    "memory_usage": "11091.9 KiB",
+    "memory_part": "1.961%",
+    "type": "uint8"
+  },
+  {
+    "column": "levels",
+    "memory_usage": "11091.9 KiB",
+    "memory_part": "1.961%",
+    "type": "uint8"
+  },
+  {
+    "column": "building_type",
+    "memory_usage": "11091.9 KiB",
+    "memory_part": "1.961%",
+    "type": "uint8"
+  },
+  {
+    "column": "object_type",
+    "memory_usage": "11091.9 KiB",
+    "memory_part": "1.961%",
+    "type": "uint8"
+  },
+  {
+    "column": "id_region",
+    "memory_usage": "11091.9 KiB",
+    "memory_part": "1.961%",
+    "type": "uint8"
+  }
+]
